@@ -1,4 +1,3 @@
-# cookie_handler.py
 import json
 
 def read_and_modify_cookies(file_path):
